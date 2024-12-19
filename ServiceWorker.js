@@ -1,9 +1,9 @@
 const cacheName = "Morean GmbH-Online Editor-0.1.0";
 const contentToCache = [
-    "Build/WebGL.loader.js",
-    "Build/WebGL.framework.js.unityweb",
-    "Build/WebGL.data.unityweb",
-    "Build/WebGL.wasm.unityweb",
+    "Build/OnlineEditorPages.loader.js",
+    "Build/OnlineEditorPages.framework.js.unityweb",
+    "Build/OnlineEditorPages.data.unityweb",
+    "Build/OnlineEditorPages.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
